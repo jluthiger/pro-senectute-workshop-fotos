@@ -1,0 +1,89 @@
+# Workshop: Mehr aus Ihren Fotos machen – Digitale Bildbearbeitung leicht gemacht
+
+**Zielgruppe:** Senior:innen  
+**Dauer:** 2 Kurstage à 2½ Stunden  
+**Software:** Systemeigene Programme  
+
+- **Windows:** Fotos (Microsoft Photos)  
+- **Mac:** Fotos (Apple Photos)  
+
+
+## Tag 2 – Retusche, Collagen & Teilen
+
+
+### Arbeitsblatt 3 – Retusche, Korrekturen & Collagen
+
+**Ziel:** Kleine Fehler im Foto beseitigen und mehrere Bilder kombinieren.
+
+#### Windows
+
+1. Öffnen Sie das Foto und klicken Sie auf **Bearbeiten**.  
+2. Wählen Sie **Retusche** (Pinsel-Symbol).  
+3. Ziehen Sie über Flecken oder Staub.  
+4. Mit **Strg + Z** machen Sie Änderungen rückgängig.
+
+#### Mac
+
+1. Öffnen Sie das Foto und klicken Sie auf **Bearbeiten**.  
+2. Aktivieren Sie das Werkzeug **Retusche** (Pflaster-Symbol).  
+3. Ziehen Sie mit dem Cursor über die zu korrigierende Stelle.  
+4. Mit **Befehl + Z** machen Sie Änderungen rückgängig.
+
+#### Collage / Kombination mehrerer Bilder
+
+**Windows:**  
+
+- Wählen Sie mehrere Fotos → **Neues Video > Automatische Videodarstellung**.  
+- Fügen Sie Text oder Musik hinzu, um eine kreative Zusammenstellung zu erstellen.
+
+**Mac:**  
+
+- Markieren Sie mehrere Bilder → **Ablage > Erstellen > Diashow**.  
+- Geben Sie der Diashow einen Namen, wählen Sie Übergänge und Musik aus.
+
+#### Übung
+
+Wählen Sie zwei Fotos und erstellen Sie eine kleine Collage oder Diashow.  
+Achten Sie auf harmonische Übergänge.
+
+
+### Arbeitsblatt 4 – Text, Rahmen & Export / Teilen
+
+**Ziel:** Fotos mit Text versehen, einfache Rahmen hinzufügen, Bilder exportieren und teilen.
+
+#### Text & Rahmen hinzufügen
+
+**Windows:**  
+
+- Öffnen Sie **Video-Editor** → **Neues Videoprojekt**.  
+- Fügen Sie ein Foto hinzu → **Text**.  
+- Wählen Sie Stil, Position und Farbe.  
+
+**Mac:**  
+
+- Öffnen Sie das Foto mit **Vorschau** → **Werkzeuge > Anmerken > Text**.  
+- Geben Sie den gewünschten Text ein, ändern Sie Schriftart und Farbe.
+
+#### Exportieren & Teilen
+
+**Windows:**  
+
+1. Öffnen Sie das bearbeitete Foto.  
+2. Klicken Sie auf **Teilen** → **Datei speichern unter**.  
+3. Wählen Sie Speicherort und Format (z. B. JPEG).  
+4. Teilen Sie das Foto per E-Mail oder über OneDrive.
+
+**Mac:**  
+
+1. Öffnen Sie das bearbeitete Foto.  
+2. Menü **Ablage > Exportieren > 1 Foto exportieren…**.  
+3. Wählen Sie Format (JPEG, HEIC) und Zielordner.  
+4. Teilen Sie das Foto über **Teilen** → Mail, Nachrichten oder AirDrop.
+
+#### Reflexionsfragen
+
+- Welcher Bearbeitungsschritt gefällt Ihnen am besten?  
+- Wo möchten Sie Ihre bearbeiteten Fotos präsentieren?
+
+
+© 2025 Pro Senectute Luzern

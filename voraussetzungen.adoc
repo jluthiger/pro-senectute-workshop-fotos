@@ -1,0 +1,82 @@
+= Voraussetzungen für die Teilnahme am Kurs
+:author: Pro Senectute Luzern
+:revnumber: 1.0
+:revdate: 2025-10-11
+
+== Hardware
+
+Damit Sie erfolgreich am Kurs *„Mehr aus Ihren Fotos machen – Digitale Bildbearbeitung leicht gemacht“* teilnehmen können, benötigen Sie:
+
+* Computer oder Laptop
+** Windows 10 oder Windows 11
+** oder macOS 12 (Monterey) oder neuer
+* Bildschirmgröße: mindestens 13 Zoll (empfohlen 15 Zoll oder mehr für bessere Übersicht)
+* Freier Speicherplatz: mindestens 2 GB für Fotos und Übungsdateien
+* USB-Anschluss oder Kartenleser (für Kamera- oder Smartphone-Übertragung)
+* Maus (empfohlen – erleichtert das Arbeiten bei Bildbearbeitung deutlich)
+* Internetverbindung (optional, aber hilfreich zum Teilen von Fotos oder für Cloud-Zugriff)
+* Smartphone oder Digitalkamera (mit eigenen Fotos für Übungen)
+
+== Software
+
+Für diesen Kurs sind *keine zusätzlichen Installationen* erforderlich.
+Es werden ausschließlich *systemeigene Programme* verwendet, die auf jedem modernen Computer bereits vorinstalliert sind.
+
+=== Windows 10 / 11
+
+*Programm:* _Fotos (Microsoft Photos)_
+
+.Überprüfung:
+. Klicken Sie auf die Windows-Taste oder das Suchfeld unten links.
+. Geben Sie *Fotos* ein und drücken Sie *Enter*.
+. Öffnet sich die App mit dem blauen Blumen-Symbol – alles bereit!
+
+.Optionale Neuinstallation:
+. Öffnen Sie den *Microsoft Store*.
+. Suchen Sie nach *Microsoft Fotos*.
+. Klicken Sie auf *Installieren* oder *Herunterladen*.
+. Nach der Installation finden Sie das Programm unter *Startmenü → Fotos*.
+
+=== macOS (Monterey oder neuer)
+
+*Programm:* _Fotos (Apple Photos)_
+
+.Überprüfung:
+. Klicken Sie auf das *Launchpad* (Raketen-Symbol) oder öffnen Sie den *Programme-Ordner*.
+. Suchen Sie das Symbol *Fotos* (gelbe Blume).
+. Öffnet sich die App – alles bereit!
+
+.Optionale Neuinstallation:
+. Öffnen Sie den *App Store*.
+. Suchen Sie nach *Fotos* (bzw. „Apple Photos“).
+. Klicken Sie auf *Laden* oder *Installieren*.
+
+[NOTE]
+====
+Die Fotos-App ist standardmäßig auf jedem Mac enthalten und wird automatisch mit macOS aktualisiert.
+====
+
+== Empfohlene Einstellungen
+
+*Aktualisiertes Betriebssystem:*  
+Halten Sie Ihr System aktuell – das verbessert Stabilität und Sicherheit.
+
+* Windows: _Einstellungen → Windows Update → Nach Updates suchen_
+* Mac: _Apple-Menü → Systemeinstellungen → Allgemein → Softwareupdate_
+
+*Fotos sichern:*  
+Bevor Sie mit der Bearbeitung beginnen, sichern Sie Ihre Originalfotos auf einem USB-Stick oder einer externen Festplatte.
+
+*Stromversorgung:*  
+Wenn Sie ein Notebook verwenden, schließen Sie es während des Kurses an das Netzteil an.
+
+== Vorwissen (empfohlen)
+
+* Grundkenntnisse im Umgang mit Maus, Tastatur und Dateiablage
+* Fähigkeit, ein Programm zu öffnen und Dateien zu speichern
+* Grundverständnis, wie Fotos von Smartphone oder Kamera übertragen werden
+
+[TIP]
+====
+Wer möchte, kann vor dem Kurs einen *Computergrundlagen-Kurs* der Pro Senectute besuchen, um sich sicherer im Umgang mit Maus und Dateien zu fühlen.
+====
