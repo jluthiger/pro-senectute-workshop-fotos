@@ -1,15 +1,6 @@
 # Workshop: Mehr aus Ihren Fotos machen – Digitale Bildbearbeitung leicht gemacht
 
-**Zielgruppe:** Senior:innen  
-**Dauer:** 2 Kurstage à 2½ Stunden  
-**Software:** Systemeigene Programme  
-
-- **Windows:** Fotos (Microsoft Photos)  
-- **Mac:** Fotos (Apple Photos)  
-
-
 ## Tag 2 – Retusche, Collagen & Teilen
-
 
 ### Arbeitsblatt 3 – Retusche, Korrekturen & Collagen
 
@@ -84,6 +75,3 @@ Achten Sie auf harmonische Übergänge.
 
 - Welcher Bearbeitungsschritt gefällt Ihnen am besten?  
 - Wo möchten Sie Ihre bearbeiteten Fotos präsentieren?
-
-
-© 2025 Pro Senectute Luzern

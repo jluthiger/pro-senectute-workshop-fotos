@@ -1,15 +1,6 @@
 # Workshop: Mehr aus Ihren Fotos machen – Digitale Bildbearbeitung leicht gemacht
 
-**Zielgruppe:** Senior:innen  
-**Dauer:** 2 Kurstage à 2½ Stunden  
-**Software:** Systemeigene Programme  
-
-- **Windows:** Fotos (Microsoft Photos)  
-- **Mac:** Fotos (Apple Photos)  
-
-
 ## Tag 1 – Fotos organisieren & verbessern
-
 
 ### Arbeitsblatt 1 – Fotos importieren & organisieren
 
@@ -83,6 +74,3 @@
 
 Wählen Sie ein Lieblingsfoto und passen Sie Helligkeit, Kontrast und Farbe an.  
 Experimentieren Sie mit mindestens zwei Filtern.
-
-
-© 2025 Pro Senectute Luzern
