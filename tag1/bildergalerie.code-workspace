@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "bildergalerie",
+			"path": "../../bildergalerie"
+		},
+		{
+			"name": "kursprogramm",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
