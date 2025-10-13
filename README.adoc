@@ -2,17 +2,16 @@
 :author: Pro Senectute Luzern
 :revnumber: 2.0
 :revdate: 2025-10-11
-:toc: left
-:toclevels: 3
+
 
 * Zielgruppe: *Senior:innen*  
 * Dauer: *2 Kurstage à 2½ Stunden*  
 * Software: Systemeigene Programme  
 
-* Windows: _Fotos (Microsoft Photos)_  
-* Mac: _Fotos (Apple Photos)_
 
-Vorussetzungen: xref:voraussetzungen.adoc[Voraussetzungen für die Teilnahme am Kurs]
+== Voraussetzungen 
+
+xref:voraussetzungen.adoc[Voraussetzungen für die Teilnahme am Kurs]
 
 == Tag 1 – Fotos importieren, speichern & organisieren
 
