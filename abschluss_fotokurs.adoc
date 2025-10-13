@@ -10,7 +10,7 @@ Ziel ist es, die gesamte Bildbearbeitungskette selbstständig zu üben:
 
 === Aufgabe
 . Verbinden Sie Ihr Smartphone oder Ihre Kamera mit dem Computer.
-. Importieren Sie 5–10 neue Fotos zu den Themen `Menschen` und `Natur`, die Sie noch nicht im Workshop benutzt haben.
+. Importieren Sie aus der xref:gallery.adoc[Bildergalerie] 5–10 neue Fotos zu den Themen `Menschen` und `Natur`, die Sie noch nicht im Workshop benutzt haben.
 . Legen Sie sie in Ihren Ordner `Meine Fotos Workshop/Importiert`.
 
 ==== Windows
