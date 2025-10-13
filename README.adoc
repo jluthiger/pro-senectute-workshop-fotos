@@ -13,7 +13,7 @@
 
 xref:voraussetzungen.adoc[Voraussetzungen für die Teilnahme am Kurs]
 
-xref:bildergalerie/gallery.adoc[Bildergalerie mit Beispielbildern zum Üben]
+xref:gallery.adoc[Bildergalerie mit Beispielbildern zum Üben]
 
 == Tag 1 – Fotos importieren, speichern & organisieren
 
