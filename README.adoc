@@ -40,6 +40,6 @@ xref:arbeitsblatt5.adoc[Arbeitsblatt 5 – Fotos teilen]
 * Wie möchten Sie Ihre Fotos künftig aufbewahren oder präsentieren?
 * Planen Sie, Fotobücher oder Diashows zu erstellen?
 
-=== Anhang
+=== Wissenswertes
 
 * xref:bildformate.adoc[Vergleich gängiger Bildformate]

@@ -89,7 +89,7 @@
 
 == Fazit
 
-* Für typische Fotos im Web:* **JPEG** (kompatibel) oder **WEBP** (modern & effizient). 
-* Für professionelle Bearbeitung:* **RAW** oder **TIFF**.  
-* Für mobile Geräte:* **HEIF/HEIC** (optimiert für Speicher & Qualität).  
-* Für Zukunft & Weboptimierung:* **AVIF** ist auf dem Vormarsch.
+* Für typische Fotos im Web: **JPEG** (kompatibel) oder **WEBP** (modern & effizient). 
+* Für professionelle Bearbeitung: **RAW** oder **TIFF**.  
+* Für mobile Geräte: **HEIF/HEIC** (optimiert für Speicher & Qualität).  
+* Für Zukunft & Weboptimierung: **AVIF** ist auf dem Vormarsch.

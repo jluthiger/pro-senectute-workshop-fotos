@@ -9,12 +9,9 @@ Damit Sie erfolgreich am Kurs teilnehmen können, benötigen Sie:
 
 * Laptop
 ** Windows 11
-** oder macOS 14 oder neuer
-* Bildschirmgrösse: mindestens 13 Zoll (oder mehr für bessere Übersicht)
-* Freier Speicherplatz: mindestens 2 GB für Fotos und Übungsdateien
-* USB-Anschluss oder Kartenleser (für Kamera- oder Smartphone-Übertragung)
+** macOS 14 oder neuer
 * Maus (empfohlen – erleichtert das Arbeiten bei Bildbearbeitung deutlich)
-* Internetverbindung (WLAN steht zur Verfügun)
+* Internetverbindung (WLAN steht zur Verfügung)
 * Smartphone oder Digitalkamera (mit eigenen Fotos für Übungen)
 
 == Software
