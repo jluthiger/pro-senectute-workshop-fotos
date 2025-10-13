@@ -30,6 +30,10 @@ xref:arbeitsblatt4.adoc[Arbeitsblatt 4 – Fotos bearbeiten]
 xref:arbeitsblatt5.adoc[Arbeitsblatt 5 – Fotos teilen]
 
 
+=== Arbeitsblätter zum Abschluss
+
+* xref:abschluss_fotokurs.adoc[Arbeitsblätter zum Vertiefen und Üben im und nach dem Kurs]
+
 === Abschlussreflexion
 
 * Was hat Ihnen am meisten Spass gemacht – Bearbeiten oder Organisieren?

@@ -1,0 +1,129 @@
+= Abschluss-Arbeitsblätter – Mehr aus Ihren Fotos machen
+:author: Pro Senectute Luzern
+:revnumber: 1.0
+:revdate: 2025-10-11
+:toc: left
+:toclevels: 2
+
+Diese Arbeitsblätter dienen zur Wiederholung aller Themen aus dem Workshop.  
+Ziel ist es, die gesamte Bildbearbeitungskette selbstständig zu üben:  
+*Importieren → Speichern → Organisieren → Bearbeiten → Teilen*.
+
+== Arbeitsblatt A1 – Alles beginnt mit dem Import
+
+*Ziel:* Wiederholen, wie Fotos sicher vom Smartphone oder der Kamera auf den Computer übertragen werden.
+
+=== Aufgabe
+. Verbinden Sie Ihr Smartphone oder Ihre Kamera mit dem Computer.
+. Importieren Sie 5–10 neue Fotos, die Sie noch nicht im Workshop benutzt haben.
+. Legen Sie sie in Ihren Ordner `Meine Fotos Workshop/Importiert`.
+
+==== Windows
+* Öffnen Sie *Fotos → Importieren → Von einem verbundenen Gerät*.
+* Wählen Sie die neuen Bilder aus → *Importieren*.
+
+==== Mac
+* Öffnen Sie *Fotos → Ablage → Importieren…*.
+* Wählen Sie die neuen Bilder aus → *Für Mediathek importieren*.
+
+[TIP]
+====
+Prüfen Sie, ob alle Fotos vollständig übertragen wurden, bevor Sie das Gerät trennen.
+====
+
+---
+
+== Arbeitsblatt A2 – Ordnung schaffen
+
+*Ziel:* Die Fotos in klaren Alben und Ordnern strukturieren.
+
+=== Aufgabe
+. Öffnen Sie Ihre importierten Fotos.
+. Erstellen Sie zwei neue Alben oder Ordner:
+* `Menschen`
+* `Natur`
+. Ordnen Sie Ihre neuen Fotos den passenden Kategorien zu.
+
+==== Windows
+* In *Fotos*: *+ Neues Album* → benennen → Fotos per Drag & Drop hinzufügen.
+
+==== Mac
+* In *Fotos*: *+ Neues Album* → benennen → Fotos auswählen → *Zur Auswahl hinzufügen*.
+
+[REFLECTION]
+====
+Welche Struktur hilft Ihnen am besten, Ihre Fotos später wiederzufinden?
+====
+
+---
+
+== Arbeitsblatt A3 – Fotos verbessern
+
+*Ziel:* Helligkeit, Kontrast und Farbe gezielt anpassen.
+
+=== Aufgabe
+. Öffnen Sie zwei Ihrer importierten Fotos.
+. Bearbeiten Sie eines natürlich (Licht, Farbe, Kontrast) und eines kreativ (Filter, Ausschnitt).
+. Speichern Sie beide im Ordner `Meine Fotos Workshop/Bearbeitet`.
+
+==== Windows
+* *Fotos → Bearbeiten → Anpassungen / Filter*.
+* Verwenden Sie Regler für Licht und Farbe.
+
+==== Mac
+* *Fotos → Bearbeiten → Belichtung / Farbe / Filter*.
+* Testen Sie *Lebhaft* oder *Dramatisch*.
+
+[REFLECTION]
+====
+Wie verändert die Bearbeitung die Stimmung des Bildes?
+====
+
+---
+
+== Arbeitsblatt A4 – Ihre Fotos erzählen eine Geschichte
+
+*Ziel:* Fotos kombinieren oder als Diashow präsentieren.
+
+=== Aufgabe
+. Wählen Sie 5–8 bearbeitete Fotos.
+. Erstellen Sie eine kleine Diashow mit Titel, Reihenfolge und Übergängen.
+. Spielen Sie die Präsentation ab.
+
+==== Windows
+* *Fotos → Neues Video → Automatische Videodarstellung*.
+* Fügen Sie Text oder Musik hinzu.
+
+==== Mac
+* *Fotos → Ablage → Erstellen → Diashow*.
+* Übergänge und Hintergrundmusik auswählen.
+
+[REFLECTION]
+====
+Welche Reihenfolge erzählt Ihre Geschichte am besten?
+====
+
+---
+
+== Arbeitsblatt A5 – Fotos teilen & bewahren
+
+*Ziel:* Bearbeitete Fotos sichern und mit anderen teilen.
+
+=== Aufgabe
+. Wählen Sie Ihr Lieblingsfoto aus.
+. Exportieren oder teilen Sie es mit einer vertrauten Person.
+. Sichern Sie eine Kopie auf einem externen Medium.
+
+==== Windows
+* *Fotos → Teilen → Datei speichern unter*.
+* Speichern Sie als JPEG, danach per *Mail* oder *OneDrive* teilen.
+
+==== Mac
+* *Fotos → Ablage → Exportieren → 1 Foto exportieren…*.
+* Wählen Sie Format (JPEG), dann *Teilen → Mail oder AirDrop*.
+
+[REFLECTION]
+====
+Wie möchten Sie künftig Ihre Fotos sichern und präsentieren?
+Gibt es ein Projekt, das Sie nach dem Kurs umsetzen möchten (z. B. Fotobuch, Familienalbum)?
+====
