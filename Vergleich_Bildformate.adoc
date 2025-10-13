@@ -1,0 +1,70 @@
+= Vergleich gängiger Bildformate für Fotos
+
+[cols="1,3,3,3"]
+|===
+| Format | Vorteile | Nachteile
+
+| **JPEG / JPG**
+| - Weit verbreitet und kompatibel mit nahezu allen Geräten und Programmen  
+  - Gute Kompression bei akzeptabler Bildqualität  
+  - Ideal für Web, soziale Medien und Fotografie  
+| - Verlustbehaftete Kompression (Qualitätsverluste bei mehrmaligem Speichern)  
+  - Keine Transparenz  
+  - Weniger geeignet für Nachbearbeitung
+
+| **PNG**
+| - Verlustfreie Kompression  
+  - Unterstützt Transparenz (Alpha-Kanal)  
+  - Gute Qualität für Screenshots, Grafiken und Logos  
+| - Größere Dateigröße als JPEG  
+  - Nicht optimal für große Fotodateien
+
+| **WEBP**
+| - Moderne Kompression: kleinere Dateien bei gleicher Qualität  
+  - Unterstützt Transparenz und Animationen  
+  - Gute Wahl für Web-Optimierung  
+| - Noch nicht überall vollständig unterstützt (insb. ältere Software)  
+  - Etwas höhere Rechenlast bei Kompression/Entpackung
+
+| **HEIF / HEIC**
+| - Sehr effiziente Kompression (bessere Qualität bei kleinerer Dateigröße als JPEG)  
+  - Unterstützt 16-Bit-Farben, Transparenz und Animationen  
+  - Standard bei vielen iPhones  
+| - Eingeschränkte Kompatibilität (nicht alle Windows-/Linux-Systeme)  
+  - Lizenzrechtlich eingeschränkt (HEVC-Codec)
+
+| **TIFF**
+| - Verlustfreie oder verlustarme Speicherung  
+  - Unterstützt Ebenen, Transparenz, Metadaten  
+  - Beliebt in professioneller Fotografie und Druckvorstufe  
+| - Sehr große Dateien  
+  - Weniger geeignet für Web oder schnelle Übertragung
+
+| **RAW (z. B. .CR2, .NEF, .ARW)**
+| - Enthält alle Sensordaten – maximale Bearbeitungsfreiheit  
+  - Ideal für professionelle Bildbearbeitung  
+| - Sehr große Dateien  
+  - Muss konvertiert oder entwickelt werden (nicht direkt anzeigbar)  
+  - Proprietäre Formate je nach Kamerahersteller
+
+| **BMP**
+| - Unkomprimiertes, einfaches Format  
+  - Hohe Kompatibilität mit älteren Windows-Systemen  
+| - Extrem große Dateien  
+  - Keine Kompression oder moderne Features  
+  - Praktisch obsolet für Fotos
+
+| **AVIF**
+| - Sehr hohe Kompressionseffizienz (bessere als WEBP)  
+  - Unterstützt HDR, Transparenz und Animation  
+  - Open Source, lizenzfrei  
+| - Noch eingeschränkte Softwareunterstützung  
+  - Etwas langsamere Codierung  
+|===
+
+== Fazit
+
+*Für typische Fotos im Web:* **JPEG** (kompatibel) oder **WEBP** (modern & effizient).  
+*Für professionelle Bearbeitung:* **RAW** oder **TIFF**.  
+*Für mobile Geräte:* **HEIF/HEIC** (optimiert für Speicher & Qualität).  
+*Für Zukunft & Weboptimierung:* **AVIF** ist auf dem Vormarsch.
