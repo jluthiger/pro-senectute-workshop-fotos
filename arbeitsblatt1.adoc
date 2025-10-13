@@ -1,0 +1,20 @@
+= Arbeitsblatt 1 – Fotos importieren
+
+*Ziel:* Fotos vom Smartphone oder der Kamera auf den Computer übertragen.
+
+== Windows
+. Öffnen Sie *Fotos*.
+. Oben rechts → *Importieren > Von einem verbundenen Gerät*.
+. Wählen Sie das Gerät (z. B. Smartphone, Kamera).
+. Markieren Sie gewünschte Fotos → *Importieren*.
+
+== Mac
+. Öffnen Sie *Fotos*.
+. Menü *Ablage → Importieren…*.
+. Wählen Sie das Gerät.
+. Markieren Sie Fotos → *Für Mediathek importieren*.
+
+[TIP]
+==
+Prüfen Sie, ob das Gerät entsperrt ist – sonst kann der Computer keine Fotos anzeigen.
+==
