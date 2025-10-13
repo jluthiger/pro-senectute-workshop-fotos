@@ -1,6 +1,5 @@
 = Abschluss-Arbeitsblätter – Mehr aus Ihren Fotos machen
 
-
 Diese Arbeitsblätter dienen zur Wiederholung aller Themen aus dem Workshop.  
 Ziel ist es, die gesamte Bildbearbeitungskette selbstständig zu üben:  
 *Importieren → Speichern → Organisieren → Bearbeiten → Teilen*.
@@ -11,7 +10,7 @@ Ziel ist es, die gesamte Bildbearbeitungskette selbstständig zu üben:
 
 === Aufgabe
 . Verbinden Sie Ihr Smartphone oder Ihre Kamera mit dem Computer.
-. Importieren Sie 5–10 neue Fotos, die Sie noch nicht im Workshop benutzt haben.
+. Importieren Sie 5–10 neue Fotos zu den Themen `Menschen` und `Natur`, die Sie noch nicht im Workshop benutzt haben.
 . Legen Sie sie in Ihren Ordner `Meine Fotos Workshop/Importiert`.
 
 ==== Windows
