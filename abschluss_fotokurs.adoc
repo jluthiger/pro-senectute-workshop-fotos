@@ -1,9 +1,5 @@
 = Abschluss-Arbeitsblätter – Mehr aus Ihren Fotos machen
-:author: Pro Senectute Luzern
-:revnumber: 1.0
-:revdate: 2025-10-11
-:toc: left
-:toclevels: 2
+
 
 Diese Arbeitsblätter dienen zur Wiederholung aller Themen aus dem Workshop.  
 Ziel ist es, die gesamte Bildbearbeitungskette selbstständig zu üben:  
@@ -31,13 +27,12 @@ Ziel ist es, die gesamte Bildbearbeitungskette selbstständig zu üben:
 Prüfen Sie, ob alle Fotos vollständig übertragen wurden, bevor Sie das Gerät trennen.
 ====
 
----
-
 == Arbeitsblatt A2 – Ordnung schaffen
 
 *Ziel:* Die Fotos in klaren Alben und Ordnern strukturieren.
 
 === Aufgabe
+
 . Öffnen Sie Ihre importierten Fotos.
 . Erstellen Sie zwei neue Alben oder Ordner:
 * `Menschen`
@@ -54,8 +49,6 @@ Prüfen Sie, ob alle Fotos vollständig übertragen wurden, bevor Sie das Gerät
 ====
 Welche Struktur hilft Ihnen am besten, Ihre Fotos später wiederzufinden?
 ====
-
----
 
 == Arbeitsblatt A3 – Fotos verbessern
 
@@ -79,8 +72,6 @@ Welche Struktur hilft Ihnen am besten, Ihre Fotos später wiederzufinden?
 Wie verändert die Bearbeitung die Stimmung des Bildes?
 ====
 
----
-
 == Arbeitsblatt A4 – Ihre Fotos erzählen eine Geschichte
 
 *Ziel:* Fotos kombinieren oder als Diashow präsentieren.
@@ -102,8 +93,6 @@ Wie verändert die Bearbeitung die Stimmung des Bildes?
 ====
 Welche Reihenfolge erzählt Ihre Geschichte am besten?
 ====
-
----
 
 == Arbeitsblatt A5 – Fotos teilen & bewahren
 
