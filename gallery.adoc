@@ -1,81 +1,79 @@
 = Bildergalerie
 :imagesdir: bildergalerie
 
-== Galerie
-
-image::stockvault-bicycle-line141348.jpg[Stockvault-Bicycle-Line141348]
+image::bild-1.jpg[Bild-1]
 +
-Stockvault-Bicycle-Line141348
+Bild-1
 
-image::stockvault-bike-repco-challenger108318.jpg[Stockvault-Bike-Repco-Challenger108318]
+image::bild-10.jpg[Bild-10]
 +
-Stockvault-Bike-Repco-Challenger108318
+Bild-10
 
-image::stockvault-burst289674.jpg[Stockvault-Burst289674]
+image::bild-11.jpg[Bild-11]
 +
-Stockvault-Burst289674
+Bild-11
 
-image::stockvault-cactus-flowers105998.jpg[Stockvault-Cactus-Flowers105998]
+image::bild-12.jpg[Bild-12]
 +
-Stockvault-Cactus-Flowers105998
+Bild-12
 
-image::stockvault-curiosity100489.jpg[Stockvault-Curiosity100489]
+image::bild-13.jpg[Bild-13]
 +
-Stockvault-Curiosity100489
+Bild-13
 
-image::stockvault-fog187250.jpg[Stockvault-Fog187250]
+image::bild-14.jpg[Bild-14]
 +
-Stockvault-Fog187250
+Bild-14
 
-image::stockvault-green-jeep97921.jpg[Stockvault-Green-Jeep97921]
+image::bild-15.jpg[Bild-15]
 +
-Stockvault-Green-Jeep97921
+Bild-15
 
-image::stockvault-mountain-climbing186571.jpg[Stockvault-Mountain-Climbing186571]
+image::bild-16.jpg[Bild-16]
 +
-Stockvault-Mountain-Climbing186571
+Bild-16
 
-image::stockvault-mt-st-helens-destruction192442.jpg[Stockvault-Mt-St-Helens-Destruction192442]
+image::bild-17.jpg[Bild-17]
 +
-Stockvault-Mt-St-Helens-Destruction192442
+Bild-17
 
-image::stockvault-old-timer212839.jpg[Stockvault-Old-Timer212839]
+image::bild-18.jpg[Bild-18]
 +
-Stockvault-Old-Timer212839
+Bild-18
 
-image::stockvault-old-volkswagen-beetle-from-world-war-2106270.jpg[Stockvault-Old-Volkswagen-Beetle-From-World-War-2106270]
+image::bild-19.jpg[Bild-19]
 +
-Stockvault-Old-Volkswagen-Beetle-From-World-War-2106270
+Bild-19
 
-image::stockvault-pink-blossoms141912.jpg[Stockvault-Pink-Blossoms141912]
+image::bild-2.jpg[Bild-2]
 +
-Stockvault-Pink-Blossoms141912
+Bild-2
 
-image::stockvault-pre-war-somme-bicycle-ashburton-airpo108384.jpg[Stockvault-Pre-War-Somme-Bicycle-Ashburton-Airpo108384]
+image::bild-3.jpg[Bild-3]
 +
-Stockvault-Pre-War-Somme-Bicycle-Ashburton-Airpo108384
+Bild-3
 
-image::stockvault-ritlite-rock-formation-in-the-iskar-gorg113384.jpg[Stockvault-Ritlite-Rock-Formation-In-The-Iskar-Gorg113384]
+image::bild-4.jpg[Bild-4]
 +
-Stockvault-Ritlite-Rock-Formation-In-The-Iskar-Gorg113384
+Bild-4
 
-image::stockvault-ritlite-rock-formation-in-the-iskar-gorg113385.jpg[Stockvault-Ritlite-Rock-Formation-In-The-Iskar-Gorg113385]
+image::bild-5.jpg[Bild-5]
 +
-Stockvault-Ritlite-Rock-Formation-In-The-Iskar-Gorg113385
+Bild-5
 
-image::stockvault-sleeping-cat141166.jpg[Stockvault-Sleeping-Cat141166]
+image::bild-6.jpg[Bild-6]
 +
-Stockvault-Sleeping-Cat141166
+Bild-6
 
-image::stockvault-smokey104489.jpg[Stockvault-Smokey104489]
+image::bild-7.jpg[Bild-7]
 +
-Stockvault-Smokey104489
+Bild-7
 
-image::stockvault-tree152732.jpg[Stockvault-Tree152732]
+image::bild-8.jpg[Bild-8]
 +
-Stockvault-Tree152732
+Bild-8
 
-image::stockvault-yellow-flower116754.jpg[Stockvault-Yellow-Flower116754]
+image::bild-9.jpg[Bild-9]
 +
-Stockvault-Yellow-Flower116754
+Bild-9
 

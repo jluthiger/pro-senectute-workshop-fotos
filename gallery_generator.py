@@ -27,7 +27,6 @@ def generate_asciidoc(image_folder, output_file="gallery.adoc"):
     with open(output_file, "w", encoding="utf-8") as f:
         f.write(f"= Bildergalerie\n")
         f.write(f":imagesdir: {image_folder}\n\n")
-        f.write("== Galerie\n\n")
 
         for img in images:
             name = os.path.splitext(img)[0].replace("_", " ").title()
