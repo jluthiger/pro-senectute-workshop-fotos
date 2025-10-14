@@ -25,8 +25,8 @@ Es werden ausschliesslich *systemeigene Programme* verwendet, die auf jedem mode
 
 .Überprüfung:
 . Klicken Sie auf die Windows-Taste oder das Suchfeld unten links.
-. Geben Sie *Fotos* ein und drücken Sie *Enter*.
-. Öffnet sich die App mit dem blauen Blumen-Symbol – alles bereit!
+. Geben Sie *Foto* ein und drücken Sie *Enter*.
+. Öffnet sich die App mit dem blauen Symbol und Name "Windows-Fotoanzeige" – alles bereit!
 
 .Optionale Neuinstallation:
 . Öffnen Sie den *Microsoft Store*.
@@ -39,7 +39,7 @@ Es werden ausschliesslich *systemeigene Programme* verwendet, die auf jedem mode
 *Programm:* _Fotos (Apple Photos)_
 
 .Überprüfung:
-. Klicken Sie auf das *Launchpad* (Raketen-Symbol) oder öffnen Sie den *Programme-Ordner*.
+. Öffnen Sie Spotlight und geben Sie *Foto* ein oder klicken Sie auf das *Launchpad* (Raketen-Symbol) oder öffnen Sie den *Programme-Ordner*.
 . Suchen Sie das Symbol *Fotos* (farbige Blume).
 . Öffnet sich die App – alles bereit!
 
