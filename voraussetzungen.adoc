@@ -16,8 +16,8 @@ Damit Sie erfolgreich am Kurs teilnehmen können, benötigen Sie:
 
 == Software
 
-Für diesen Kurs sind normlerweise *keine zusätzlichen Installationen* erforderlich.
-Es werden ausschliesslich *systemeigene Programme* verwendet, die auf jedem modernen Computer bereits vorinstalliert sind.
+Für diesen Kurs sind normalerweise *keine zusätzlichen Installationen* erforderlich.
+Es werden ausschliesslich *system-eigene Programme* verwendet, die auf jedem modernen Computer bereits vorinstalliert sind.
 
 === Windows 11
 
