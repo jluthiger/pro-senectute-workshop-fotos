@@ -1,8 +1,0 @@
-plugins:
-  - jekyll-asciidoc
-
-asciidoc: {}
-asciidoctor:
-  attributes:
-    source-highlighter: rouge
-    rouge-style: github
