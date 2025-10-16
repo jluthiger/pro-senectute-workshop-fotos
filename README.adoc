@@ -42,5 +42,6 @@ xref:arbeitsblatt5.adoc[Arbeitsblatt 5 – Fotos teilen]
 
 === Wissenswertes
 
+* xref:begriffe.adoc[Mediathek & Alben unter Windows 11]
 * xref:bildformate.adoc[Vergleich gängiger Bildformate]
 * xref:cloud-services.adoc[Vergleich der Fotosynchronisation und Cloud-Speicherangebote]
