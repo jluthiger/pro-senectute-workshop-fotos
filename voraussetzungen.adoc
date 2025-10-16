@@ -1,7 +1,4 @@
 = Voraussetzungen für die Teilnahme am Kurs
-:author: Pro Senectute Luzern
-:revnumber: 1.0
-:revdate: 2025-10-11
 
 == Hardware
 
