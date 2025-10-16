@@ -1,6 +1,6 @@
 = Workshop: Mehr aus Ihren Fotos machen – Digitale Bildbearbeitung leicht gemacht
 :author: Pro Senectute Luzern
-:revnumber: 2.0
+:revnumber: 1.0
 :revdate: 2025-10-16
 
 
