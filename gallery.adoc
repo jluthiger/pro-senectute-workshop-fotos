@@ -1,91 +1,91 @@
 = Bildergalerie
 :imagesdir: bildergalerie
 
-image::bildergalerie/bild-1.jpg[Bild-1]
+image::bild-1.jpg[Bild-1]
 +
 Bild-1
 
-image::bildergalerie/bild-10.jpg[Bild-10]
+image::bild-10.jpg[Bild-10]
 +
 Bild-10
 
-image::bildergalerie/bild-11.jpg[Bild-11]
+image::bild-11.jpg[Bild-11]
 +
 Bild-11
 
-image::bildergalerie/bild-12.jpg[Bild-12]
+image::bild-12.jpg[Bild-12]
 +
 Bild-12
 
-image::bildergalerie/bild-13.jpg[Bild-13]
+image::bild-13.jpg[Bild-13]
 +
 Bild-13
 
-image::bildergalerie/bild-14.jpg[Bild-14]
+image::bild-14.jpg[Bild-14]
 +
 Bild-14
 
-image::bildergalerie/bild-15.jpg[Bild-15]
+image::bild-15.jpg[Bild-15]
 +
 Bild-15
 
-image::bildergalerie/bild-16.jpg[Bild-16]
+image::bild-16.jpg[Bild-16]
 +
 Bild-16
 
-image::bildergalerie/bild-17.jpg[Bild-17]
+image::bild-17.jpg[Bild-17]
 +
 Bild-17
 
-image::bildergalerie/bild-18.jpg[Bild-18]
+image::bild-18.jpg[Bild-18]
 +
 Bild-18
 
-image::bildergalerie/bild-19.jpg[Bild-19]
+image::bild-19.jpg[Bild-19]
 +
 Bild-19
 
-image::bildergalerie/bild-2.jpg[Bild-2]
+image::bild-2.jpg[Bild-2]
 +
 Bild-2
 
-image::bildergalerie/bild-20.jpg[Bild-20]
+image::bild-20.jpg[Bild-20]
 +
 Bild-20
 
-image::bildergalerie/bild-21.jpg[Bild-21]
+image::bild-21.jpg[Bild-21]
 +
 Bild-21
 
-image::bildergalerie/bild-22.jpg[Bild-22]
+image::bild-22.jpg[Bild-22]
 +
 Bild-22
 
-image::bildergalerie/bild-3.jpg[Bild-3]
+image::bild-3.jpg[Bild-3]
 +
 Bild-3
 
-image::bildergalerie/bild-4.jpg[Bild-4]
+image::bild-4.jpg[Bild-4]
 +
 Bild-4
 
-image::bildergalerie/bild-5.jpg[Bild-5]
+image::bild-5.jpg[Bild-5]
 +
 Bild-5
 
-image::bildergalerie/bild-6.jpg[Bild-6]
+image::bild-6.jpg[Bild-6]
 +
 Bild-6
 
-image::bildergalerie/bild-7.jpg[Bild-7]
+image::bild-7.jpg[Bild-7]
 +
 Bild-7
 
-image::bildergalerie/bild-8.jpg[Bild-8]
+image::bild-8.jpg[Bild-8]
 +
 Bild-8
 
-image::bildergalerie/bild-9.jpg[Bild-9]
+image::bild-9.jpg[Bild-9]
 +
 Bild-9
 
