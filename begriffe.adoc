@@ -61,4 +61,3 @@ statt einer geschlossenen Datenbank. Mit der Kombination aus *Fotos-App
 macOS, inklusive Zugriff auf iCloud-Alben.
 footnote:[https://www.pctipp.ch/praxis/apple/besten-tipps-apples-fotos-2843168.html]footnote:[https://communities.apple.com/de/thread/253879312]footnote:[https://www.youtube.com/watch?v=SxL9lON7Cu8]footnote:[https://www.mactechnews.de/forum/discussion/iCloud-Fotos-unter-Windows-besser-350330.html]footnote:[https://www.justanswer.de/mac-computer/obxnm-ich-suche-eine-l-sung-f-r-icloud-fotos-ber-windows-11.html]
 
-⁂
