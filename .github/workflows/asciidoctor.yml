@@ -21,7 +21,7 @@ jobs:
         run: |
           mkdir -p build
           find . -name "*.adoc" -exec asciidoctor -D build {} \;
-          cp -r bildergalerie build
+          cp *.jpg build
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4

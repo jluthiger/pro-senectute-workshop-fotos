@@ -1,5 +1,4 @@
 = Bildergalerie
-:imagesdir: bildergalerie
 
 image::bild-1.jpg[Bild-1]
 +
