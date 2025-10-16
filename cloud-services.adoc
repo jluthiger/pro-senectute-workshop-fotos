@@ -1,4 +1,4 @@
-= Vergleich der Fotosynchronisation und Cloud-Speicherangebote
+== Vergleich der Fotosynchronisation und Cloud-Speicherangebote
 
 Hier der Vergleich der Fotosynchronisation und Cloud-Speicherangebote von Huawei Mobile Cloud, Samsung Cloud, Google Cloud (Google Fotos) und iCloud:
 
@@ -47,7 +47,7 @@ Hier der Vergleich der Fotosynchronisation und Cloud-Speicherangebote von Huawei
 |Fokus auf nahtloses Nutzererlebnis, Familienfreigabe
 |===
 
-== Zusammenfassung
+=== Zusammenfassung
 
 * *Huawei Mobile Cloud* ist gut für Nutzer mit Huawei-Geräten, bietet sichere Cloud-Synchronisation und eine solide Integration ins Huawei-Ökosystem, hat aber nur 5 GB Gratis-Speicher.
 * *Samsung Cloud* ist inzwischen stark mit Microsoft OneDrive verbunden, was die Integration erweitert, aber Nutzer müssen ein Microsoft-Konto einrichten.
@@ -56,7 +56,7 @@ Hier der Vergleich der Fotosynchronisation und Cloud-Speicherangebote von Huawei
 
 Die Wahl hängt stark von den genutzten Geräten und dem Ökosystem ab, in dem man sich bewegt.
 
-== Referenzen
+=== Referenzen
 
 . https://pcspezialist.de/blog/2024/03/06/cloud-speicher-vergleich/
 . https://www.tomsguide.com/buying-guide/best-cloud-storage-for-photos

@@ -1,4 +1,4 @@
-= Vergleich gängiger Bildformate für Fotos
+== Vergleich gängiger Bildformate für Fotos
 
 [cols="3,3,3"]
 |===
@@ -87,7 +87,7 @@
   Etwas langsamere Codierung  
 |===
 
-== Fazit
+=== Fazit
 
 * Für typische Fotos im Web: **JPEG** (kompatibel) oder **WEBP** (modern & effizient). 
 * Für professionelle Bearbeitung: **RAW** oder **TIFF**.  
