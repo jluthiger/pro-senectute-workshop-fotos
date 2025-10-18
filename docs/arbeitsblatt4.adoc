@@ -6,12 +6,12 @@
 == Windows
 . Öffnen Sie ein Foto → *Bearbeiten*.
 . Nutzen Sie Regler für *Licht*, *Farbe*, *Klarheit*.
-. Wenden Sie Filter an (*Sepia*, *Schwarzweiß*).
+. Wenden Sie Filter an (*Sepia*, *Schwarzweiss*).
 . Zuschneiden: *Zuschneiden & Drehen*.
 
 == Mac
 . Öffnen Sie ein Foto → *Bearbeiten*.
-. Regler: *Belichtung*, *Farbe*, *Weißabgleich*.
+. Regler: *Belichtung*, *Farbe*, *Weissabgleich*.
 . Filter: *Dramatisch*, *Lebhaft*, *Silberton*.
 . Zuschneiden mit dem Zuschneidewerkzeug.
 

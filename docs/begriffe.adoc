@@ -15,29 +15,24 @@ gespeicherte Medien als auch Inhalte aus der Cloud (z. B. *iCloud*,
 |*Mediathek* |Eine zentrale Datenbank, in der alle Fotos, Metadaten und
 Alben verwaltet werden. |Kein geschlossenes Datenbank-System; arbeitet
 direkt mit Ordnern im Datei-Explorer. Über OneDrive oder iCloud lassen
-sich alle Fotos zentral anzeigen
-footnote:[https://support.microsoft.com/de-de/windows/änderungen-in-der-neuen-fotos-app-ff47fa6b-4d63-4fc8-8136-b7ea1df55723]footnote:[https://support.microsoft.com/de-de/windows/verwalten-von-fotos-und-videos-mit-microsoft-fotos-app-c0c6422f-d4cb-2e3d-eb65-7069071b2f9b].
+sich alle Fotos zentral anzeigen.
 
 |*Alben* |Benutzerdefinierte Sammlungen von Fotos, innerhalb der
 Mediathek gespeichert. |Benutzer kann manuell Ordner oder Sammlungen
 erstellen, die wie Alben funktionieren; Fotos-App zeigt sie im linken
-Menü an
-footnote:[https://support.microsoft.com/de-de/windows/änderungen-in-der-neuen-fotos-app-ff47fa6b-4d63-4fc8-8136-b7ea1df55723].
+Menü an.
 
 |*Geteilte Alben / iCloud-Sync* |Über iCloud geteilt und auf allen
 Apple-Geräten synchronisiert. |Windows 11 Fotos kann iCloud-Fotos
-integrieren, sobald iCloud für Windows installiert und verbunden ist
-footnote:[https://support.apple.com/de-ch/guide/icloud-windows/icw153978ac3/icloud]footnote:[https://support.apple.com/de-ch/guide/icloud-windows/icw9f0ba665f/icloud].
+integrieren, sobald iCloud für Windows installiert und verbunden ist.
 
 |*Speicherort* |Lokale Mediathek (z. B.
 ~/Bilder/Fotos-Bibliothek.photoslibrary). |Lokale Ordner (z. B.
-C:<Name>) und Cloud-Verzeichnisse (z. B. OneDriveoder iCloud-Fotos)
-footnote:[https://support.apple.com/de-ch/guide/icloud-windows/icw9f0ba665f/icloud].
+C:<Name>) und Cloud-Verzeichnisse (z. B. OneDriveoder iCloud-Fotos).
 
 |*KI-basierte Sortierung* |Automatische Alben für Personen, Orte,
 Ereignisse. |Ähnliche Funktion über OneDrive-Alben und Erinnerungen
-(„Erleben Sie Ihre Erinnerungen erneut“)
-footnote:[https://support.microsoft.com/de-de/windows/änderungen-in-der-neuen-fotos-app-ff47fa6b-4d63-4fc8-8136-b7ea1df55723].
+(„Erleben Sie Ihre Erinnerungen erneut“).
 |===
 
 === Wie man ähnliche Struktur aufbaut
@@ -50,10 +45,8 @@ gewünschte Bilder zuordnen.
 ** *OneDrive*: Automatische Synchronisation und Backup.
 ** *iCloud für Windows*: Synchronisiert die Apple-Fotomediathek, inkl.
 Alben und geteilten Elementen, in „iCloud-Fotos“ im
-Datei-Explorer.footnote:[https://support.apple.com/de-ch/guide/icloud-windows/icw153978ac3/icloud]footnote:[https://support.apple.com/de-ch/108994]footnote:[https://support.apple.com/de-ch/guide/icloud-windows/icw9f0ba665f/icloud]
+Datei-Explorer.
 
 === Fazit
 
 Die *Fotos-App unter Windows 11* ist am ehesten vergleichbar mit der *macOS Fotos-App*, allerdings nutzt Windows ein *offenes Ordnersystem* statt einer geschlossenen Datenbank. Mit der Kombination aus *Fotos-App + iCloud für Windows* erreichst du nahezu denselben Komfort wie auf macOS, inklusive Zugriff auf iCloud-Alben.
-footnote:[https://www.pctipp.ch/praxis/apple/besten-tipps-apples-fotos-2843168.html]footnote:[https://communities.apple.com/de/thread/253879312]footnote:[https://www.youtube.com/watch?v=SxL9lON7Cu8]footnote:[https://www.mactechnews.de/forum/discussion/iCloud-Fotos-unter-Windows-besser-350330.html]footnote:[https://www.justanswer.de/mac-computer/obxnm-ich-suche-eine-l-sung-f-r-icloud-fotos-ber-windows-11.html]
-

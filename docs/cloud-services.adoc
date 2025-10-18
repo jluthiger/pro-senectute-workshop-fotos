@@ -55,16 +55,3 @@ Hier der Vergleich der Fotosynchronisation und Cloud-Speicherangebote von Huawei
 * *iCloud* überzeugt mit der besten Integration in Apple-Systeme und hoher Datensicherheit, allerdings mit nur 5 GB kostenlosem Speicher in der Basisversion.
 
 Die Wahl hängt stark von den genutzten Geräten und dem Ökosystem ab, in dem man sich bewegt.
-
-=== Referenzen
-
-. https://pcspezialist.de/blog/2024/03/06/cloud-speicher-vergleich/
-. https://www.tomsguide.com/buying-guide/best-cloud-storage-for-photos
-. https://www.samsung.com/ie/apps/samsung-cloud/
-. https://www.smetechguru.co.za/work-and-play-on-the-go-quick-review-of-huaweis-mobile-cloud/
-. https://www.samsung.com/in/support/mobile-devices/galaxy-smartphones-back-up-the-gallery-app-to-samsung-cloud/
-. https://www.multcloud.com/tutorials/google-photos-vs-icloud.html
-. https://cloud.huawei.com
-. https://www.reddit.com/r/ios/comments/1aobx87/google_photos_or_icloud_better/
-. https://www.reddit.com/r/Huawei/comments/dy829o/huawei_cloud_or_google_drive/
-. https://www.techradar.com/news/google-photos-vs-icloud
