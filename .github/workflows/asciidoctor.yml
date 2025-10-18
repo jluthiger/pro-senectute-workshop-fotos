@@ -20,7 +20,7 @@ jobs:
       - name: Build HTML from .adoc files
         run: |
           mkdir -p build
-          find . -name "docs/*.adoc" -exec asciidoctor -D build {} \;
+          find docs -name "*.adoc" -exec asciidoctor -D build {} \;
           cp docs/*.jpg build
 
       - name: Deploy to GitHub Pages
