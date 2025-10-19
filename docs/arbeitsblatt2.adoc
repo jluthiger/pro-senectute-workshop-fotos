@@ -12,6 +12,4 @@
 . Optional: Sichern Sie alles auf USB-Stick oder externer Festplatte.
 
 [TIP]
-==
 Verwenden Sie sprechende Dateinamen, z. B. `2025-05-Urlaub-Luzern-See.jpg`.
-==

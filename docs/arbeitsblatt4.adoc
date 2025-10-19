@@ -16,6 +16,4 @@
 . Zuschneiden mit dem Zuschneidewerkzeug.
 
 [TIP]
-==
 Bearbeiten Sie ein Lieblingsfoto und speichern Sie es im Ordner `Bearbeitet`.
-==

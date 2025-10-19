@@ -1,20 +1,47 @@
-= Arbeitsblatt 1 – Fotos importieren
+= Arbeitsblatt 1 
+
+== Fotos über USB importieren 
 
 *Ziel:* Fotos vom Smartphone oder der Kamera auf den Computer übertragen.
 
-== Windows
+[IMPORTANT]
+Stellen Sie sicher, dass Ihr Gerät Dateien über USB-Verbindungen übertragen darf. Suchen Sie in den  `Einstellungen` nach `USB`.
+
+=== Windows
+. Schliessen Sie das Smartphone oder die Kamera über ein USB-Kabel an den Computer an.
 . Öffnen Sie *Fotos*.
 . Oben rechts → *Importieren > Von einem verbundenen Gerät*.
 . Wählen Sie das Gerät (z. B. Smartphone, Kamera).
 . Markieren Sie gewünschte Fotos → *Importieren*.
 
-== Mac
+=== Mac
+. Schliessen Sie das Smartphone oder die Kamera über ein USB-Kabel an den Computer an.
 . Öffnen Sie *Fotos*.
-. Menü *Ablage → Importieren…*.
-. Wählen Sie das Gerät.
+. Wählen Sie in der Seitenleiste links das Gerät.
 . Markieren Sie Fotos → *Für Mediathek importieren*.
 
 [TIP]
-==
 Prüfen Sie, ob das Gerät entsperrt ist – sonst kann der Computer keine Fotos anzeigen.
-==
+
+== Fotos von der Cloud importieren 
+
+*Ziel:* Fotos von der Cloud auf den Computer übertragen.
+
+[IMPORTANT]
+Stellen Sie sicher, dass Sie Ihr Benutzername und Passwort für Ihr Konto für den entsprechenden Cloud-Dienst zur Hand haben.
+
+=== Windows
+. Öffnen Sie mit einem Browser Ihren Cloud-Dienst (z.B. https://photos.google.com[Google Fotos]).
+. Selektieren Sie die Fotos, die Sie auf Ihren Computer herunterladen wollen.
+. Über die Funktion `Herunterladen` - oft oben rechts über 3 Punkte zu finden - laden Sie die selektierten Fotos als zip-Datei auf Ihren Computer.
+. Entpacken Sie die zip-Datei, indem Sie auf die Datei doppelklicken. Die Fotos werden in einem neuen Ordner abgelegt. Der Ordner hat den gleichen Namen wie die zip-Datei.
+. Geben Sie dem Ordner einen aussagekräftigen Namen und verschieben Sie an einen Ort, wo Sie alle anderen Fotos verwalten wollen.
+. Öffnen Sie die App *Fotos* importieren.
+. Erstellen Sie in der App einen neuen `Katalog`, indem Sie den neuen Ordner als Quelle angeben.
+
+=== Mac
+. Öffnen Sie mit einem Browser Ihren Cloud-Dienst (z.B. https://photos.google.com[Google Fotos]).
+. Selektieren Sie die Fotos, die Sie auf Ihren Computer herunterladen wollen.
+. Über die Funktion `Herunterladen` - oft oben rechts über 3 Punkte zu finden - laden Sie die selektierten Fotos als zip-Datei auf Ihren Computer.
+. Entpacken Sie die zip-Datei, indem Sie auf die Datei doppelklicken. Die Fotos werden in einem neuen Ordner abgelegt. Der Ordner hat den gleichen Namen wie die zip-Datei.
+. Nun können Sie die Fotos/Ordner in die App *Fotos* importieren.

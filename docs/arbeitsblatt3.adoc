@@ -13,6 +13,4 @@
 * Fügen Sie Fotos hinzu.
 
 [TIP]
-==
 Erstellen Sie zwei Alben: `Natur` und `Familie` und ordnen Sie Ihre Fotos zu.
-==

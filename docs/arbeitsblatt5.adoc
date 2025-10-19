@@ -18,6 +18,4 @@
 * *Exportieren* → JPEG speichern
 
 [TIP]
-==
 Exportieren Sie ein bearbeitetes Foto und senden Sie es an eine vertraute Person per E-Mail oder AirDrop.
-==
