@@ -31,7 +31,7 @@ Prüfen Sie, ob das Gerät entsperrt ist – sonst kann der Computer keine Fotos
 Stellen Sie sicher, dass Sie Ihr Benutzername und Passwort für Ihr Konto für den entsprechenden Cloud-Dienst zur Hand haben.
 
 === Windows
-. Öffnen Sie mit einem Browser Ihren Cloud-Dienst (z.B. https://photos.google.com[Google Fotos]).
+. Öffnen Sie mit einem Browser ihren Cloud-Dienst.
 . Selektieren Sie die Fotos, die Sie auf Ihren Computer herunterladen wollen.
 . Über die Funktion `Herunterladen` - oft oben rechts über 3 Punkte zu finden - laden Sie die selektierten Fotos als zip-Datei auf Ihren Computer.
 . Entpacken Sie die zip-Datei, indem Sie auf die Datei doppelklicken. Die Fotos werden in einem neuen Ordner abgelegt. Der Ordner hat den gleichen Namen wie die zip-Datei.
@@ -40,8 +40,12 @@ Stellen Sie sicher, dass Sie Ihr Benutzername und Passwort für Ihr Konto für d
 . Erstellen Sie in der App einen neuen `Katalog`, indem Sie den neuen Ordner als Quelle angeben.
 
 === Mac
-. Öffnen Sie mit einem Browser Ihren Cloud-Dienst (z.B. https://photos.google.com[Google Fotos]).
+. Öffnen Sie mit einem Browser ihren Cloud-Dienst.
 . Selektieren Sie die Fotos, die Sie auf Ihren Computer herunterladen wollen.
 . Über die Funktion `Herunterladen` - oft oben rechts über 3 Punkte zu finden - laden Sie die selektierten Fotos als zip-Datei auf Ihren Computer.
 . Entpacken Sie die zip-Datei, indem Sie auf die Datei doppelklicken. Die Fotos werden in einem neuen Ordner abgelegt. Der Ordner hat den gleichen Namen wie die zip-Datei.
 . Nun können Sie die Fotos/Ordner in die App *Fotos* importieren.
+
+== Typische Cloud Dienste für Fotos
+. https://www.icloud.com/photos[iCloud Fotos]
+. https://photos.google.com[Google Fotos]
