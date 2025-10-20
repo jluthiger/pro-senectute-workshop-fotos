@@ -14,17 +14,22 @@ Suchen Sie in den `Einstellungen` nach `USB`.
 . Wählen Sie das Gerät (z. B. Smartphone, Kamera).
 - Öffnen Sie den internen Speicher des Gerätes. Siehe: +
      image:ipad.png[width=300,height=150], image:pixel9.png[width=300,height=150]
-. Markieren Sie die gewünschten Fotos → *kopieren*.
+. Markieren Sie die gewünschten Fotos → *kopieren* in einen Zielordner auf Ihrem Dateisystem.
+. Die neuen Fotos finden Sie nun über den *Explorer* im Ihrem Zielordner.
 
 [TIP]
 Nutzen Sie die Shift- und Ctrl-Taste um mehrere Fotos für den Kopiervorgang zu selektieren.
 
 === Mac
 . Schliessen Sie das Smartphone oder die Kamera über ein USB-Kabel an den Computer an.
-. Öffnen Sie den *Finder*.
-. Wählen Sie in der Seitenleiste links das Gerät.
-. Markieren Sie Fotos → *Für Mediathek kopieren*.
+. Öffnen Sie die App *Fotos*.
+. Wählen Sie in der Seitenleiste links das Gerät. Siehe +
+    image:macos.png[width=300,height=150]
+. Markieren Sie die gewünschten Fotos → *Auswahl importieren*. Diese Aktion löst den Kopiervorgang aus.
+. Die neuen Fotos finden Sie nun in der *Mediathek*.
 
+[TIP]
+Nutzen Sie die Command-Taste um einzelne Fotos für den Kopiervorgang zu selektieren.
 
 == Fotos von der Cloud importieren 
 
