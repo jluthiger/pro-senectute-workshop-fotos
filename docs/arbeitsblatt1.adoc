@@ -2,11 +2,11 @@
 
 == Fotos über USB auf PC kopieren 
 
-*Ziel:* Wissen wie man Fotos vom Smartphone oder der Kamera auf den PC *kopiert*.
+*Ziel:* Wissen, wie man Fotos vom Smartphone oder der Kamera auf den PC *kopiert*.
 
 [IMPORTANT]
-Stellen Sie sicher, dass Ihr Gerät Dateien über USB-Verbindungen übertragen darf. 
-Suchen Sie in den `Einstellungen` nach `USB`.
+Bei Android müssen Sie sicherstellen, dass Ihr Gerät Dateien über USB-Verbindungen übertragen darf. 
+Suchen Sie in den `Einstellungen` nach `USB`. iOS kontrolliert den Zugriff über die App *Fotos*.
 
 [WARNING]
 Wählen Sie *nicht* die Import-Funktion z.B. der App *Fotos*. *Bei vielen Fotos kann dieser Vorgang lange dauern,* da alle Fotos Ihres Gerätes auf den PC kopiert werden.
@@ -36,7 +36,7 @@ Nutzen Sie die Command-Taste um einzelne Fotos für den Kopiervorgang zu selekti
 
 == Fotos von der Cloud auf PC importieren 
 
-*Ziel:* Wissen wie man Fotos von der Cloud auf den PC *importiert*.
+*Ziel:* Wissen, wie man Fotos von der Cloud auf den PC *importiert*.
 
 [IMPORTANT]
 Stellen Sie sicher, dass Sie Ihr Benutzername und Passwort für Ihr Konto für den entsprechenden Cloud-Dienst zur Hand haben.
