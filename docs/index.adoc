@@ -16,8 +16,29 @@ xref:gallery.adoc[Bildergalerie mit Beispielbildern zum Üben]
 
 == Kursunterlagen
 
-Neben den Arbeitsblätter, die an den beiden Kurstagen besprochen werden, empfiehlt es sich auch Gedanken zu
-eigene Setup zu machen. Dazu steht eine xref:mein-setup.pdf[Vorlage] zur Verfügung, die selbstständig und/oder in Zusammenarbeit mit dem Kursleiter ausgefüllt werden kann.
+Zusätzlich zu den Arbeitsblättern, die an den beiden Kurstagen besprochen werden, ist es empfehlenswert, sich auch Gedanken über das eigene Setup zu machen. Hierfür steht eine xref:mein-setup.pdf[Vorlage] zur Verfügung, die eigenständig oder gemeinsam mit dem Kursleiter ausgefüllt werden kann.
+
+Die Vorlage enthält unter anderem folgende Leitfragen, die bei der Vorbereitung hilfreich sind:
+
+. *Kennen Sie Ihren Cloud-Dienst?* +
+Welcher Anbieter? Welche Funktionen nutzen Sie bereits?
+
+. *Haben Sie Ihren Benutzeraccount?* +
+Zugangsdaten, Postfach, Rechte etc.
+
+. *Kennen Sie die URL des Cloud-Diensts?* +
+damit Sie sich direkt einloggen können.
+
+. *Nutzen Sie ein iOS- oder Android-Smartphone?* +
+Je nach System sind bestimmte Abläufe unterschiedlich.
+
+. *Sind USB-Verbindungen zwischen den Geräten erlaubt?* +
+Insbesondere bei Android-Geräten relevant.
+
+. *Wissen Sie, wohin Sie neue Fotos kopieren wollen?* +
+z.B. ein Verzeichnis auf Ihrem Windows-Rechner, ein Ordner in der Cloud etc.
+
+Diese Fragen dienen als Orientierung, damit Sie Ihr Setup (Geräte, Verbindungen, Speicherorte usw.) klären und optimieren können. So stellen Sie sicher, dass technische Stolpersteine frühzeitig erkannt und vermieden werden.
 
 == Tag 1 – Fotos importieren, speichern & organisieren
 
