@@ -3,17 +3,26 @@
 
 *Ziel:* Fotos optimieren und kreativ gestalten.
 
+== Vorbereitung
+Laden Sie das Katzenbild `Bild-17` aus der xref:gallery.adoc[Fotogalerie] auf Ihren PC, indem Sie über
+einen Rechtsklick auf das Bild zum Menu `Bild speichern unter...` navigieren und den Download auslösen.
+
+== Aufgabe
+Auf dem Katzenbild finden Sie unten rechts den gelben Schriftzug `08/14/2007`. Dieser soll entfernt werden, so dass
+im finalen Bild kein Hinweis auf diesen Schriftzug zu entdecken ist.
+
 == Windows
-. Öffnen Sie ein Foto → *Bearbeiten*.
-. Nutzen Sie Regler für *Licht*, *Farbe*, *Klarheit*.
-. Wenden Sie Filter an (*Sepia*, *Schwarzweiss*).
-. Zuschneiden: *Zuschneiden & Drehen*.
+. Kopieren Sie das Katzenfoto in den Ordner `Bilder`.
+. Starten Sie die App *Fotos*.
+. Öffnen Sie das Katzenfoto im Bearbeitungsmodus → Button *Bearbeiten*.
+. Nutzen Sie den AI-Modus *Löschen*, um den Schriftzug zu entfernen.
+. Warten Sie bis die AI den Hintergrund angepasst hat.
+. Speichern Sie das bearbeitete, neue Katzenbild als Kopie unter dem Namen `Katze` im Ordner `Bilder`.
 
 == Mac
-. Öffnen Sie ein Foto → *Bearbeiten*.
-. Regler: *Belichtung*, *Farbe*, *Weissabgleich*.
-. Filter: *Dramatisch*, *Lebhaft*, *Silberton*.
-. Zuschneiden mit dem Zuschneidewerkzeug.
+. Starten Sie die App *Fotos*.
+. Kopieren Sie das Katzenbild mit Drag&Drop in die Mediathek.
+. Öffnen Sie das Katzenfoto im Bearbeitungsmodus → Button *Bearbeiten*.
+. Nutzen Sie den AI-Modus *Bereinigen*, um den Schriftzug zu entfernen.
+. Warten Sie bis die AI den Hintergrund angepasst hat.
 
-[TIP]
-Bearbeiten Sie ein Lieblingsfoto und speichern Sie es im Ordner `Bearbeitet`.
