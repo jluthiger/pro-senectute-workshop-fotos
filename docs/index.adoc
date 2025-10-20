@@ -17,17 +17,15 @@ xref:gallery.adoc[Bildergalerie mit Beispielbildern zum Üben]
 
 == Tag 1 – Fotos importieren, speichern & organisieren
 
-xref:arbeitsblatt1.adoc[Arbeitsblatt 1 – Fotos importieren]
+xref:arbeitsblatt1.adoc[Arbeitsblatt 1 – Fotos importieren und speichern]
 
-xref:arbeitsblatt2.adoc[Arbeitsblatt 2 – Fotos speichern & sichern]
-
-xref:arbeitsblatt3.adoc[Arbeitsblatt 3 – Fotos organisieren]
+xref:arbeitsblatt2.adoc[Arbeitsblatt 2 – Fotos organisieren]
 
 == Tag 2 – Fotos bearbeiten & teilen
 
-xref:arbeitsblatt4.adoc[Arbeitsblatt 4 – Fotos bearbeiten]
+xref:arbeitsblatt3.adoc[Arbeitsblatt 3 – Fotos bearbeiten]
 
-xref:arbeitsblatt5.adoc[Arbeitsblatt 5 – Fotos teilen]
+xref:arbeitsblatt4.adoc[Arbeitsblatt 4 – Fotos teilen]
 
 
 === Arbeitsblätter zum Abschluss

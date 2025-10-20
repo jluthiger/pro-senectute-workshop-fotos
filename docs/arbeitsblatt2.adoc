@@ -1,15 +1,22 @@
-= Arbeitsblatt 2 – Fotos speichern & sichern
+= Arbeitsblatt 3 – Fotos organisieren
 
-*Ziel:* Fotos sinnvoll speichern, benennen und sichern.
+*Ziel:* Übersicht in der Fotosammlung behalten.
 
-== Schritte
-. Erstellen Sie auf dem Desktop einen Ordner: `Meine Fotos Workshop`.
-. Legen Sie Unterordner an:
-* `Importiert`
-* `Bearbeitet`
-* `Zum Teilen`
-. Speichern Sie importierte Fotos im Ordner `Importiert`.
-. Optional: Sichern Sie alles auf USB-Stick oder externer Festplatte.
+== Windows
+* Organisieren Sie Ihre Fotos mit Hilfe des Explorer.
+* Erstellen Sie eine Ordner-Hierarchie auf dem Dateisystem.
+* Erstellen Sie einen neuen Ordner z.B. im Ordner `2025` und benennen Sie es z. B. `sommerurlaub`.
+* Öffnen Sie die App *Fotos*.
+* Erstellen Sie in der App einen neuen `Katalog`, indem Sie den neuen Ordner `sommerurlaub` als Quelle angeben.
 
-[TIP]
-Verwenden Sie sprechende Dateinamen, z. B. `2025-05-Urlaub-Luzern-See.jpg`.
+[IMPORTANT]
+Unter Windows wird die Fotosammlung ausschliesslich im Dateisystem organisiert. Die App *Fotos* dient als Anwendung zum Anzeigen und Bearbeiten von Bildern und Videos auf dem Computer. Sie hilft auch, Fotos automatisch nach Datum, Ort oder Alben zu sortieren. Auch die Integration in OneDrive und iCloud ermöglicht das zentrale Verwalten von Medien aus verschiedenen Quellen.
+
+== Mac
+* Organisieren Sie Ihre Fotos mit Hilfe der App *Fotos*.
+* Öffnen Sie *Fotos* → Seitenleiste *Alben* → *+ Neues Album*.
+* Geben Sie dem Album einen aussagekräftigen Namen ein.
+* Ziehen Sie die passenden Fotos per Drag & Drop in das Album hinein.
+
+[IMPORTANT]
+Die App *Fotos* kann zum Anzeigen, *Verwalten* und Bearbeiten von Bildern und Videos auf dem Computer verwendet werden. 

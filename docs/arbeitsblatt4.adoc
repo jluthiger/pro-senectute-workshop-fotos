@@ -1,19 +1,21 @@
+= Arbeitsblatt 5 – Fotos teilen
 
-= Arbeitsblatt 4 – Fotos bearbeiten
-
-*Ziel:* Fotos optimieren und kreativ gestalten.
+*Ziel:* Fotos exportieren, versenden oder präsentieren.
 
 == Windows
-. Öffnen Sie ein Foto → *Bearbeiten*.
-. Nutzen Sie Regler für *Licht*, *Farbe*, *Klarheit*.
-. Wenden Sie Filter an (*Sepia*, *Schwarzweiss*).
-. Zuschneiden: *Zuschneiden & Drehen*.
+. Öffnen Sie *Fotos*.
+. Wählen Sie das bearbeitete Foto → *Teilen*.
+. Optionen:
+* *Datei speichern unter* → lokal speichern
+* *Mail* → direkt versenden
+* *OneDrive* → online teilen
 
 == Mac
-. Öffnen Sie ein Foto → *Bearbeiten*.
-. Regler: *Belichtung*, *Farbe*, *Weissabgleich*.
-. Filter: *Dramatisch*, *Lebhaft*, *Silberton*.
-. Zuschneiden mit dem Zuschneidewerkzeug.
+. Wählen Sie das Foto → *Teilen*.
+. Optionen:
+* *AirDrop* → an iPhone oder iPad senden
+* *Mail* → E-Mail-Versand
+* *Exportieren* → JPEG speichern
 
 [TIP]
-Bearbeiten Sie ein Lieblingsfoto und speichern Sie es im Ordner `Bearbeitet`.
+Exportieren Sie ein bearbeitetes Foto und senden Sie es an eine vertraute Person per E-Mail oder AirDrop.
