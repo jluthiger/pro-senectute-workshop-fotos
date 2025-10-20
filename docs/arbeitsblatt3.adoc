@@ -3,14 +3,20 @@
 *Ziel:* Übersicht in der Fotosammlung behalten.
 
 == Windows
-* Öffnen Sie *Fotos* → *Sammlungen* oder *Alben*.
-* Klicken Sie auf *+ Neues Album*, benennen Sie es z. B. „Urlaub 2025“.
-* Ziehen Sie Fotos per Drag & Drop hinein.
+* Organisieren Sie Ihre Fotos mit Hilfe des Explorer.
+* Erstellen Sie eine Ordner-Hierarchie auf dem Dateisystem.
+* Erstellen Sie einen neuen Ordner z.B. im Ordner `2025` und benennen Sie es z. B. `sommerurlaub`.
+* Öffnen Sie die App *Fotos*.
+* Erstellen Sie in der App einen neuen `Katalog`, indem Sie den neuen Ordner `sommerurlaub` als Quelle angeben.
+
+[IMPORTANT]
+Unter Windows wird die Fotosammlung ausschliesslich im Dateisystem organisiert. Die App *Fotos* dient als Anwendung zum Anzeigen und Bearbeiten von Bildern und Videos auf dem Computer. Sie hilft auch, Fotos automatisch nach Datum, Ort oder Alben zu sortieren. Auch die Integration in OneDrive und iCloud ermöglicht das zentrale Verwalten von Medien aus verschiedenen Quellen.
 
 == Mac
+* Organisieren Sie Ihre Fotos mit Hilfe der App *Fotos*.
 * Öffnen Sie *Fotos* → Seitenleiste *Alben* → *+ Neues Album*.
-* Geben Sie einen Namen ein.
-* Fügen Sie Fotos hinzu.
+* Geben Sie dem Album einen aussagekräftigen Namen ein.
+* Ziehen Sie die passenden Fotos per Drag & Drop in das Album hinein.
 
-[TIP]
-Erstellen Sie zwei Alben: `Natur` und `Familie` und ordnen Sie Ihre Fotos zu.
+[IMPORTANT]
+Die App *Fotos* kann zum Anzeigen, *Verwalten* und Bearbeiten von Bildern und Videos auf dem Computer verwendet werden. 

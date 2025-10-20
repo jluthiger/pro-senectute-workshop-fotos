@@ -2,26 +2,29 @@
 
 == Fotos über USB importieren 
 
-*Ziel:* Fotos vom Smartphone oder der Kamera auf den Computer übertragen.
+*Ziel:* Fotos vom Smartphone oder der Kamera auf den Computer *kopieren*.
 
 [IMPORTANT]
-Stellen Sie sicher, dass Ihr Gerät Dateien über USB-Verbindungen übertragen darf. Suchen Sie in den  `Einstellungen` nach `USB`.
+Stellen Sie sicher, dass Ihr Gerät Dateien über USB-Verbindungen übertragen darf. 
+Suchen Sie in den `Einstellungen` nach `USB`. 
 
 === Windows
 . Schliessen Sie das Smartphone oder die Kamera über ein USB-Kabel an den Computer an.
-. Öffnen Sie *Fotos*.
-. Oben rechts → *Importieren > Von einem verbundenen Gerät*.
+. Öffnen Sie den *Explorer*.
 . Wählen Sie das Gerät (z. B. Smartphone, Kamera).
-. Markieren Sie gewünschte Fotos → *Importieren*.
+- Öffnen Sie den internen Speicher des Gerätes. Siehe: +
+     image:ipad.png[width=300,height=150], image:pixel9.png[width=300,height=150]
+. Markieren Sie die gewünschten Fotos → *kopieren*.
+
+[TIP]
+Nutzen Sie die Shift- und Ctrl-Taste um mehrere Fotos für den Kopiervorgang zu selektieren.
 
 === Mac
 . Schliessen Sie das Smartphone oder die Kamera über ein USB-Kabel an den Computer an.
-. Öffnen Sie *Fotos*.
+. Öffnen Sie den *Finder*.
 . Wählen Sie in der Seitenleiste links das Gerät.
-. Markieren Sie Fotos → *Für Mediathek importieren*.
+. Markieren Sie Fotos → *Für Mediathek kopieren*.
 
-[TIP]
-Prüfen Sie, ob das Gerät entsperrt ist – sonst kann der Computer keine Fotos anzeigen.
 
 == Fotos von der Cloud importieren 
 
