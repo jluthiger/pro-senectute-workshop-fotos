@@ -28,7 +28,7 @@ integrieren, sobald iCloud für Windows installiert und verbunden ist.
 
 |*Speicherort* |Lokale Mediathek (z.B.
 ~/Bilder/Fotos-Bibliothek.photoslibrary). |Lokale Ordner (z.B.
-C:<Name>) und Cloud-Verzeichnisse (z.B. OneDriveoder iCloud-Fotos).
+C:<Name>) und Cloud-Verzeichnisse (z.B. OneDrive oder iCloud-Fotos).
 
 |*KI-basierte Sortierung* |Automatische Alben für Personen, Orte,
 Ereignisse. |Ähnliche Funktion über OneDrive-Alben und Erinnerungen
