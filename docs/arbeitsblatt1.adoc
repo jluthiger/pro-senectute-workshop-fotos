@@ -1,15 +1,18 @@
 = Arbeitsblatt 1 
 
-== Fotos über USB importieren 
+== Fotos über USB auf PC kopieren 
 
-*Ziel:* Fotos vom Smartphone oder der Kamera auf den Computer *kopieren*.
+*Ziel:* Wissen wie man Fotos vom Smartphone oder der Kamera auf den PC *kopiert*.
 
 [IMPORTANT]
 Stellen Sie sicher, dass Ihr Gerät Dateien über USB-Verbindungen übertragen darf. 
-Suchen Sie in den `Einstellungen` nach `USB`. 
+Suchen Sie in den `Einstellungen` nach `USB`.
+
+[WARNING]
+Wählen Sie *nicht* die Import-Funktion z.B. der App *Fotos*. *Bei vielen Fotos kann dieser Vorgang lange dauern,* da alle Fotos Ihres Gerätes auf den PC kopiert werden.
 
 === Windows
-. Schliessen Sie das Smartphone oder die Kamera über ein USB-Kabel an den Computer an.
+. Schliessen Sie das Smartphone oder die Kamera über ein USB-Kabel an den PC an.
 . Öffnen Sie den *Explorer*.
 . Wählen Sie das Gerät (z. B. Smartphone, Kamera).
 - Öffnen Sie den internen Speicher des Gerätes. Siehe: +
@@ -21,7 +24,7 @@ Suchen Sie in den `Einstellungen` nach `USB`.
 Nutzen Sie die Shift- und Ctrl-Taste um mehrere Fotos für den Kopiervorgang zu selektieren.
 
 === Mac
-. Schliessen Sie das Smartphone oder die Kamera über ein USB-Kabel an den Computer an.
+. Schliessen Sie das Smartphone oder die Kamera über ein USB-Kabel an den PC an.
 . Öffnen Sie die App *Fotos*.
 . Wählen Sie in der Seitenleiste links das Gerät. Siehe +
     image:macos.png[width=600,height=300]
@@ -31,17 +34,17 @@ Nutzen Sie die Shift- und Ctrl-Taste um mehrere Fotos für den Kopiervorgang zu 
 [TIP]
 Nutzen Sie die Command-Taste um einzelne Fotos für den Kopiervorgang zu selektieren.
 
-== Fotos von der Cloud importieren 
+== Fotos von der Cloud auf PC importieren 
 
-*Ziel:* Fotos von der Cloud auf den Computer übertragen.
+*Ziel:* Wissen wie man Fotos von der Cloud auf den PC *importiert*.
 
 [IMPORTANT]
 Stellen Sie sicher, dass Sie Ihr Benutzername und Passwort für Ihr Konto für den entsprechenden Cloud-Dienst zur Hand haben.
 
 === Windows
 . Öffnen Sie mit einem Browser ihren Cloud-Dienst.
-. Selektieren Sie die Fotos, die Sie auf Ihren Computer herunterladen wollen.
-. Über die Funktion `Herunterladen` - oft oben rechts über 3 Punkte zu finden - laden Sie die selektierten Fotos als zip-Datei auf Ihren Computer.
+. Selektieren Sie die Fotos, die Sie auf Ihren PC herunterladen wollen.
+. Über die Funktion `Herunterladen` - oft oben rechts über 3 Punkte zu finden - laden Sie die selektierten Fotos als zip-Datei auf Ihren PC.
 . Entpacken Sie die zip-Datei, indem Sie auf die Datei doppelklicken. Die Fotos werden in einem neuen Ordner abgelegt. Der Ordner hat den gleichen Namen wie die zip-Datei.
 . Geben Sie dem Ordner einen aussagekräftigen Namen und verschieben Sie an einen Ort, wo Sie alle anderen Fotos verwalten wollen.
 . Öffnen Sie die App *Fotos* importieren.
@@ -49,8 +52,8 @@ Stellen Sie sicher, dass Sie Ihr Benutzername und Passwort für Ihr Konto für d
 
 === Mac
 . Öffnen Sie mit einem Browser ihren Cloud-Dienst.
-. Selektieren Sie die Fotos, die Sie auf Ihren Computer herunterladen wollen.
-. Über die Funktion `Herunterladen` - oft oben rechts über 3 Punkte zu finden - laden Sie die selektierten Fotos als zip-Datei auf Ihren Computer.
+. Selektieren Sie die Fotos, die Sie auf Ihren PC herunterladen wollen.
+. Über die Funktion `Herunterladen` - oft oben rechts über 3 Punkte zu finden - laden Sie die selektierten Fotos als zip-Datei auf Ihren PC.
 . Entpacken Sie die zip-Datei, indem Sie auf die Datei doppelklicken. Die Fotos werden in einem neuen Ordner abgelegt. Der Ordner hat den gleichen Namen wie die zip-Datei.
 . Nun können Sie die Fotos/Ordner in die App *Fotos* importieren.
 
