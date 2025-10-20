@@ -24,9 +24,7 @@ xref:arbeitsblatt2.adoc[Arbeitsblatt 2 – Fotos organisieren]
 
 xref:arbeitsblatt3.adoc[Arbeitsblatt 3 – Fotos bearbeiten]
 
-=== Arbeitsblätter zum Abschluss
-
-* xref:abschluss_fotokurs.adoc[Arbeitsblätter zum Vertiefen und Üben im und nach dem Kurs]
+xref:abschluss_fotokurs.adoc[Arbeitsblatt 4 - Zum Vertiefen und Üben im und nach dem Kurs]
 
 === Wissenswertes
 
