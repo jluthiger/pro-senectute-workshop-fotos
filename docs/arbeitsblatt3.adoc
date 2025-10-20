@@ -3,15 +3,16 @@
 
 *Ziel:* Fotos optimieren und kreativ gestalten.
 
-== Vorbereitung
+== Aufgabe 1: Schriftzug entfernen
+
+=== Vorbereitung
 Laden Sie das Katzenbild `Bild-17` aus der xref:gallery.adoc[Fotogalerie] auf Ihren PC, indem Sie über
 einen Rechtsklick auf das Bild zum Menu `Bild speichern unter...` navigieren und den Download auslösen.
 
-== Aufgabe
 Auf dem Katzenbild finden Sie unten rechts den gelben Schriftzug `08/14/2007`. Dieser soll entfernt werden, so dass
 im finalen Bild kein Hinweis auf diesen Schriftzug zu entdecken ist.
 
-== Windows
+=== Windows
 . Kopieren Sie das Katzenfoto in den Ordner `Bilder`.
 . Starten Sie die App *Fotos*.
 . Öffnen Sie das Katzenfoto im Bearbeitungsmodus → Button *Bearbeiten*.
@@ -19,10 +20,33 @@ im finalen Bild kein Hinweis auf diesen Schriftzug zu entdecken ist.
 . Warten Sie bis die AI den Hintergrund angepasst hat.
 . Speichern Sie das bearbeitete, neue Katzenbild als Kopie unter dem Namen `Katze` im Ordner `Bilder`.
 
-== Mac
+=== Mac
 . Starten Sie die App *Fotos*.
 . Kopieren Sie das Katzenbild mit Drag&Drop in die Mediathek.
 . Öffnen Sie das Katzenfoto im Bearbeitungsmodus → Button *Bearbeiten*.
 . Nutzen Sie den AI-Modus *Bereinigen*, um den Schriftzug zu entfernen.
 . Warten Sie bis die AI den Hintergrund angepasst hat.
 
+== Aufgabe 2: Hintergrund entfernen
+
+=== Vorbereitung
+Laden Sie das Personenbild `Bild-22` aus der xref:gallery.adoc[Fotogalerie] auf Ihren PC, indem Sie über
+einen Rechtsklick auf das Bild zum Menu `Bild speichern unter...` navigieren und den Download auslösen.
+
+Auf dem Personenbild sehen Sie als Hintergrund einen Wald. Dieser soll entfernt werden.
+
+=== Windows
+. Kopieren Sie das Personenbild in den Ordner `Bilder`.
+. Starten Sie die App *Fotos*.
+. Öffnen Sie das Personenbild im Bearbeitungsmodus → Button *Bearbeiten*.
+. Nutzen Sie den AI-Modus *Hintergrund*, um den Hintergrund zu entfernen.
+. Warten Sie bis die AI den Hintergrund entfernt hat.
+. Speichern Sie das bearbeitete, neue Personenbild als Kopie unter dem Namen `Person` im Ordner `Bilder`.
+
+=== Mac
+. Starten Sie die App *Fotos*.
+. Kopieren Sie das Personenbild mit Drag&Drop in die Mediathek.
+. Klicken Sie mit der rechten Maustaste auf das Hauptmotiv, hier die Person.
+. Wählen Sie `Motiv teilen...` kopieren oder `Motiv kopieren` aus dem Kontextmenü. 
+. MacOS isoliert automatisch das erkannte Motiv und kopiert es mit transparentem Hintergrund in die Zwischenablage.
+. Das freigestellte Motiv kann anschliessend in Programmen wie Vorschau, Pages oder Mail mit Command+V eingefügt und als neues Personenbild abgespeichert werden.
