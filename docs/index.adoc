@@ -14,6 +14,11 @@ xref:voraussetzungen.adoc[Voraussetzungen für die Teilnahme am Kurs]
 
 xref:gallery.adoc[Bildergalerie mit Beispielbildern zum Üben]
 
+== Kursunterlagen
+
+Neben den Arbeitsblätter, die an den beiden Kurstagen besprochen werden, empfiehlt es sich auch Gedanken zu
+eigene Setup zu machen. Dazu steht eine xref:mein-setup.pdf[Vorlage] zur Verfügung, die selbstständig und/oder in Zusammenarbeit mit dem Kursleiter ausgefüllt werden kann.
+
 == Tag 1 – Fotos importieren, speichern & organisieren
 
 xref:arbeitsblatt1.adoc[Arbeitsblatt 1 – Fotos importieren und speichern]
