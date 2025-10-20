@@ -2,7 +2,7 @@
 
 Dieses Arbeitsblatt dient zur Wiederholung der Themen aus dem Workshop.  
 Ziel ist es, die gesamte Bildbearbeitungskette selbstständig zu üben:  
-*Importieren → Speichern → Organisieren → Bearbeiten → Teilen*.
+*Importieren → Speichern → Organisieren → Bearbeiten*.
 
 == Aufgabe: Einladungskarte mit Foto erstellen
 

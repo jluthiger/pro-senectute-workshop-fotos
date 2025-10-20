@@ -1,8 +1,7 @@
 = Workshop: Mehr aus Ihren Fotos machen – Digitale Bildbearbeitung leicht gemacht
 :author: Pro Senectute Luzern
 :revnumber: 1.0
-:revdate: 2025-10-16
-
+:revdate: 2025-10-19
 
 * Zielgruppe: *Senior:innen*  
 * Dauer: *2 Kurstage à 2½ Stunden*  
@@ -21,22 +20,13 @@ xref:arbeitsblatt1.adoc[Arbeitsblatt 1 – Fotos importieren und speichern]
 
 xref:arbeitsblatt2.adoc[Arbeitsblatt 2 – Fotos organisieren]
 
-== Tag 2 – Fotos bearbeiten & teilen
+== Tag 2 – Fotos bearbeiten
 
 xref:arbeitsblatt3.adoc[Arbeitsblatt 3 – Fotos bearbeiten]
-
-xref:arbeitsblatt4.adoc[Arbeitsblatt 4 – Fotos teilen]
-
 
 === Arbeitsblätter zum Abschluss
 
 * xref:abschluss_fotokurs.adoc[Arbeitsblätter zum Vertiefen und Üben im und nach dem Kurs]
-
-=== Abschlussreflexion
-
-* Was hat Ihnen am meisten Spass gemacht – Bearbeiten oder Organisieren?
-* Wie möchten Sie Ihre Fotos künftig aufbewahren oder präsentieren?
-* Planen Sie, Fotobücher oder Diashows zu erstellen?
 
 === Wissenswertes
 
