@@ -3,22 +3,23 @@
 :author_2: Jürg Luthiger
 :revnumber: 1.0
 
-* Zielgruppe: *Senior:innen*  
-* Dauer: *2 Kurstage à 2½ Stunden*  
-* Software: Systemeigene Programme  
+Dauer: *2 Kurstage à 2½ Stunden* +
+xref:voraussetzungen.adoc[Voraussetzungen] für die Teilnahme am Kurs
 
 
-== Voraussetzungen 
+== Tag 1 – Fotos importieren, speichern & organisieren
 
-xref:voraussetzungen.adoc[Voraussetzungen für die Teilnahme am Kurs]
+xref:arbeitsblatt1.adoc[Arbeitsblatt 1 – Fotos importieren und speichern] +
+xref:arbeitsblatt2.adoc[Arbeitsblatt 2 – Fotos organisieren]
 
-xref:gallery.adoc[Bildergalerie mit Beispielbildern zum Üben]
+== Tag 2 – Fotos bearbeiten
+
+xref:arbeitsblatt3.adoc[Arbeitsblatt 3 – Fotos bearbeiten] +
+xref:abschluss_fotokurs.adoc[Arbeitsblatt 4 - Zum Vertiefen und Üben im und nach dem Kurs]
 
 == Kursunterlagen
 
-Zusätzlich zu den Arbeitsblättern, die an den beiden Kurstagen besprochen werden, ist es empfehlenswert, sich auch Gedanken über das eigene Setup zu machen. Hierfür steht eine xref:mein-setup.pdf[Vorlage] zur Verfügung, die eigenständig oder gemeinsam mit dem Kursleiter ausgefüllt werden kann.
-
-Die Vorlage enthält unter anderem folgende Leitfragen, die bei der Vorbereitung hilfreich sind:
+Zusätzlich zur xref:gallery.adoc[Bildergalerie] mit Beispielbildern zum Üben und zu den 4 Arbeitsblättern, die an den beiden Kurstagen besprochen werden, ist es empfehlenswert, sich auch Gedanken über das eigene Setup zu machen. Hierfür steht eine xref:mein-setup.pdf[Vorlage] zur Verfügung, die eigenständig oder gemeinsam mit dem Kursleiter ausgefüllt werden kann. Die Vorlage enthält unter anderem folgende Leitfragen, die bei der Vorbereitung hilfreich sind:
 
 * *Kennen Sie Ihren Cloud-Dienst?* Welcher Anbieter? Welche Funktionen nutzen Sie bereits?
 
@@ -34,17 +35,6 @@ Die Vorlage enthält unter anderem folgende Leitfragen, die bei der Vorbereitung
 
 Diese Fragen dienen als Orientierung, damit Sie Ihr Setup (Geräte, Verbindungen, Speicherorte usw.) klären und optimieren können. So stellen Sie sicher, dass technische Stolpersteine frühzeitig erkannt und vermieden werden.
 
-== Tag 1 – Fotos importieren, speichern & organisieren
-
-xref:arbeitsblatt1.adoc[Arbeitsblatt 1 – Fotos importieren und speichern]
-
-xref:arbeitsblatt2.adoc[Arbeitsblatt 2 – Fotos organisieren]
-
-== Tag 2 – Fotos bearbeiten
-
-xref:arbeitsblatt3.adoc[Arbeitsblatt 3 – Fotos bearbeiten]
-
-xref:abschluss_fotokurs.adoc[Arbeitsblatt 4 - Zum Vertiefen und Üben im und nach dem Kurs]
 
 === Wissenswertes
 
