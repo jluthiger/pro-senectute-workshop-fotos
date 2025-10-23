@@ -6,7 +6,7 @@
 == Aufgabe 1: Schriftzug entfernen
 
 === Vorbereitung
-Laden Sie das Katzenbild `Bild-17` aus der xref:gallery.adoc[Fotogalerie] auf Ihren PC, indem Sie über
+Laden Sie das Katzenbild `Bild-16` aus der xref:gallery.adoc[Fotogalerie] auf Ihren PC, indem Sie über
 einen Rechtsklick auf das Bild zum Menu `Bild speichern unter...` navigieren und den Download auslösen.
 
 Auf dem Katzenbild finden Sie unten rechts den gelben Schriftzug `08/14/2007`. Dieser soll entfernt werden, so dass
@@ -30,7 +30,7 @@ im finalen Bild kein Hinweis auf diesen Schriftzug zu entdecken ist.
 == Aufgabe 2: Hintergrund entfernen
 
 === Vorbereitung
-Laden Sie das Personenbild `Bild-22` aus der xref:gallery.adoc[Fotogalerie] auf Ihren PC, indem Sie über
+Laden Sie das Personenbild `Bild-20` aus der xref:gallery.adoc[Fotogalerie] auf Ihren PC, indem Sie über
 einen Rechtsklick auf das Bild zum Menu `Bild speichern unter...` navigieren und den Download auslösen.
 
 Auf dem Personenbild sehen Sie als Hintergrund einen Wald. Dieser soll entfernt werden.

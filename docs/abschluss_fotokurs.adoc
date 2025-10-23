@@ -7,7 +7,7 @@ Ziel ist es, die gesamte Bildbearbeitungskette selbstständig zu üben:
 == Aufgabe: Einladungskarte mit Foto erstellen
 
 === Vorbereitung
-Laden Sie das Katzenbild `Bild-17` aus der xref:gallery.adoc[Fotogalerie] auf Ihren PC, indem Sie über
+Laden Sie das Katzenbild `Bild-16` aus der xref:gallery.adoc[Fotogalerie] auf Ihren PC, indem Sie über
 einen Rechtsklick auf das Bild zum Menu `Bild speichern unter...` navigieren und den Download auslösen.
 
 Die Katze soll aus dem Bild extrahiert werden, um den Katzenkopf für folgende *Einladungskarte* verwenden zu können:
