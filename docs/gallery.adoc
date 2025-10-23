@@ -1,89 +1,89 @@
 = Bildergalerie
 
-link:bild-1.jpg[image:bild-1.jpg[Bild-1],window=_blank,opts=download]
+link:bild-1.jpg[image:bild-1.jpg[Bild-1,200],window=_blank,opts=download]
 +
 Bild-1
 
-link:bild-2.jpg[image:bild-2.jpg[Bild-2],window=_blank,opts=download]
+link:bild-2.jpg[image:bild-2.jpg[Bild-2,200],window=_blank,opts=download]
 +
 Bild-2
 
-link:bild-3.jpg[image:bild-3.jpg[Bild-3],window=_blank,opts=download]
+link:bild-3.jpg[image:bild-3.jpg[Bild-3,200],window=_blank,opts=download]
 +
 Bild-3
 
-link:bild-4.jpg[image:bild-4.jpg[Bild-4],window=_blank,opts=download]
+link:bild-4.jpg[image:bild-4.jpg[Bild-4,200],window=_blank,opts=download]
 +
 Bild-4
 
-link:bild-5.jpg[image:bild-5.jpg[Bild-5],window=_blank,opts=download]
+link:bild-5.jpg[image:bild-5.jpg[Bild-5,200],window=_blank,opts=download]
 +
 Bild-5
 
-link:bild-6.jpg[image:bild-6.jpg[Bild-6],window=_blank,opts=download]
+link:bild-6.jpg[image:bild-6.jpg[Bild-6,200],window=_blank,opts=download]
 +
 Bild-6
 
-link:bild-7.jpg[image:bild-7.jpg[Bild-7],window=_blank,opts=download]
+link:bild-7.jpg[image:bild-7.jpg[Bild-7,200],window=_blank,opts=download]
 +
 Bild-7
 
-link:bild-8.jpg[image:bild-8.jpg[Bild-8],window=_blank,opts=download]
+link:bild-8.jpg[image:bild-8.jpg[Bild-8,200],window=_blank,opts=download]
 +
 Bild-8
 
-link:bild-9.jpg[image:bild-9.jpg[Bild-9],window=_blank,opts=download]
+link:bild-9.jpg[image:bild-9.jpg[Bild-9,200],window=_blank,opts=download]
 +
 Bild-9
 
-link:bild-10.jpg[image:bild-10.jpg[Bild-10],window=_blank,opts=download]
+link:bild-10.jpg[image:bild-10.jpg[Bild-10,200],window=_blank,opts=download]
 +
 Bild-10
 
-link:bild-11.jpg[image:bild-11.jpg[Bild-11],window=_blank,opts=download]
+link:bild-11.jpg[image:bild-11.jpg[Bild-11,200],window=_blank,opts=download]
 +
 Bild-11
 
-link:bild-12.jpg[image:bild-12.jpg[Bild-12],window=_blank,opts=download]
+link:bild-12.jpg[image:bild-12.jpg[Bild-12,200],window=_blank,opts=download]
 +
 Bild-12
 
-link:bild-13.jpg[image:bild-13.jpg[Bild-13],window=_blank,opts=download]
+link:bild-13.jpg[image:bild-13.jpg[Bild-13,200],window=_blank,opts=download]
 +
 Bild-13
 
-link:bild-14.jpg[image:bild-14.jpg[Bild-14],window=_blank,opts=download]
+link:bild-14.jpg[image:bild-14.jpg[Bild-14,200],window=_blank,opts=download]
 +
 Bild-14
 
-link:bild-15.jpg[image:bild-15.jpg[Bild-15],window=_blank,opts=download]
+link:bild-15.jpg[image:bild-15.jpg[Bild-15,200],window=_blank,opts=download]
 +
 Bild-15
 
-link:bild-16.jpg[image:bild-16.jpg[Bild-16],window=_blank,opts=download]
+link:bild-16.jpg[image:bild-16.jpg[Bild-16,200],window=_blank,opts=download]
 +
 Bild-16
 
-link:bild-17.jpg[image:bild-17.jpg[Bild-17],window=_blank,opts=download]
+link:bild-17.jpg[image:bild-17.jpg[Bild-17,200],window=_blank,opts=download]
 +
 Bild-17
 
-link:bild-18.jpg[image:bild-18.jpg[Bild-18],window=_blank,opts=download]
+link:bild-18.jpg[image:bild-18.jpg[Bild-18,200],window=_blank,opts=download]
 +
 Bild-18
 
-link:bild-19.jpg[image:bild-19.jpg[Bild-19],window=_blank,opts=download]
+link:bild-19.jpg[image:bild-19.jpg[Bild-19,200],window=_blank,opts=download]
 +
 Bild-19
 
-link:bild-20.jpg[image:bild-20.jpg[Bild-20],window=_blank,opts=download]
+link:bild-20.jpg[image:bild-20.jpg[Bild-20,200],window=_blank,opts=download]
 +
 Bild-20
 
-link:bild-21.jpg[image:bild-21.jpg[Bild-21],window=_blank,opts=download]
+link:bild-21.jpg[image:bild-21.jpg[Bild-21,200],window=_blank,opts=download]
 +
 Bild-21
 
-link:bild-22.jpg[image:bild-22.jpg[Bild-22],window=_blank,opts=download]
+link:bild-22.jpg[image:bild-22.jpg[Bild-22,200],window=_blank,opts=download]
 +
 Bild-22
