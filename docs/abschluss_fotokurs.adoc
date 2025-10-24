@@ -12,7 +12,7 @@ einen Rechtsklick auf das Bild zum Menu `Bild speichern unter...` navigieren und
 
 Die Katze soll aus dem Bild extrahiert werden, um den Katzenkopf für folgende *Einladungskarte* verwenden zu können:
 
-image:einladung.png[width=800,height=400]
+image:einladung.jpg[width=800,height=400]
 
 === Windows
 . Kopieren Sie das Katzenfoto in den Ordner `Bilder`.

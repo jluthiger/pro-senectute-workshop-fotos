@@ -16,7 +16,7 @@ Wählen Sie *nicht* die Import-Funktion z.B. der App *Fotos*. *Bei vielen Fotos 
 . Öffnen Sie den *Explorer*.
 . Wählen Sie das Gerät (z. B. Smartphone, Kamera).
 - Öffnen Sie den internen Speicher des Gerätes. Siehe: +
-     image:ipad.png[width=600,height=300], image:pixel9.png[width=600,height=300]
+     image:ipad.jpg[width=800,height=400], image:pixel9.jpg[width=800,height=400]
 . Markieren Sie die gewünschten Fotos → *kopieren* in einen Zielordner auf Ihrem Dateisystem.
 . Die neuen Fotos finden Sie nun über den *Explorer* im Ihrem Zielordner.
 
@@ -27,7 +27,7 @@ Nutzen Sie die Shift- und Ctrl-Taste um mehrere Fotos für den Kopiervorgang zu 
 . Schliessen Sie das Smartphone oder die Kamera über ein USB-Kabel an den PC an.
 . Öffnen Sie die App *Fotos*.
 . Wählen Sie in der Seitenleiste links das Gerät. Siehe +
-    image:macos.png[width=600,height=300]
+    image:macos.jpg[width=800,height=400]
 . Markieren Sie die gewünschten Fotos → *Auswahl importieren*. Diese Aktion löst den Kopiervorgang aus.
 . Die neuen Fotos finden Sie nun in der *Mediathek*.
 
