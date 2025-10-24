@@ -22,7 +22,6 @@ jobs:
           mkdir -p build
           find docs -name "*.adoc" -exec asciidoctor -D build {} \;
           cp docs/*.jpg build
-          cp docs/*.png build
           cp docs/*.pdf build
 
       - name: Deploy to GitHub Pages
